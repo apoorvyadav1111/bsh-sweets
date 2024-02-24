@@ -1,0 +1,77 @@
+{
+    "Bengali Sweets":
+    {
+        "banner":"bengali.jpeg",
+        "items":
+        {
+            "Rasgulla":
+            {
+                "image":"rasgulla.jpg",
+                "price":100,
+                "quantity":0
+            },
+            "Sandesh":
+            {
+                "image":"sandesh.jpg",
+                "price":150,
+                "quantity":0
+            },
+            "Mishti Doi":
+            {
+                "image":"mishti_doi.jpg",
+                "price":50,
+                "quantity":0
+            }
+        }
+    },
+    "Ghee Sweets":
+    {
+        "banner":"ghee.jpg",
+        "items":
+        {
+            "Laddu":
+            {
+                "image":"laddu.jpg",
+                "price":100,
+                "quantity":0
+            },
+            "Peda":
+            {
+                "image":"peda.jpg",
+                "price":150,
+                "quantity":0
+            },
+            "Mysore Pak":
+            {
+                "image":"mysore_pak.jpg",
+                "price":50,
+                "quantity":0
+            }
+        }
+    },
+    "Dry Fruit Sweets":
+    {
+        "banner":"dryfruits.jpeg",
+        "items":
+        {
+            "Kaju Katli":
+            {
+                "image":"kaju_katli.jpg",
+                "price":100,
+                "quantity":0
+            },
+            "Badam Barfi":
+            {
+                "image":"badam_barfi.jpg",
+                "price":150,
+                "quantity":0
+            },
+            "Dry Fruit Laddu":
+            {
+                "image":"dry_fruit_laddu.jpg",
+                "price":50,
+                "quantity":0
+            }
+        }
+    }
+}
